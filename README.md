@@ -1,6 +1,6 @@
 # Squish-Extensions
 
-This is the repo for the Squish Squish-Extensions course on Qt Academy.
+This is the repo for the Squish-Extensions course on Qt Academy.
 
 ## Getting Started
 
